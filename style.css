@@ -1,0 +1,38 @@
+header {
+    background-color: rgba(255, 162, 49, 0.651);
+    height: 200px;
+    padding-top: 30px;
+}
+body{
+    background-color: rgb(104, 101, 101);
+}
+ h2 {
+     color: rgba(255, 162, 49, 0.651);
+     padding-top: 50px;
+     padding-bottom: 30px;
+ }
+#insira{
+    background-color: rgba(255, 162, 49, 0.651);
+    padding-top: 25px;
+    margin-top: 20px;
+
+}
+#tabela{
+    background-color: rgba(255, 162, 49, 0.651);
+    margin-top: 20px;
+}
+thead{
+    text-align: center;
+}
+.result{
+    margin-top: 20px;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer{
+    margin-top: 70px;
+    object-position: bottom;
+    text-align: center;
+    background-color: rgba(255, 162, 49, 0.651);
+}
